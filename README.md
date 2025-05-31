@@ -44,16 +44,19 @@ cd rugzulaNFTMarketplace
 
 ```bash
 npm install
+```
 
 3. Create a .env file in the root directory and add the following environment variables:
 
 ```bash
 REACT_APP_PINATA_JWT=your_pinata_jwt_token
+```
 
 4. Start the development server:
 
 ```bash
 npm start
+```
 
 ---
 
@@ -148,6 +151,7 @@ function payToBuy(uint256 id) public payable;
 function changePrice(uint256 id, uint256 cost) public;
 function getAllNFTs() public view returns (NFT[] memory);
 function getAllTransactions() public view returns (Transaction[] memory);
+```
 
 ---
 
