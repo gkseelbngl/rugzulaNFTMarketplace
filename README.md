@@ -39,6 +39,7 @@
 ```bash
 git clone https://github.com/gkseelbngl/rugzulaNFTMarketplace.git
 cd rugzulaNFTMarketplace
+```
 
 2. Install dependencies:
 
