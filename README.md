@@ -63,6 +63,7 @@ npm start
 
 ## 🔧 Project Structure
 
+```bash
 rugzulaNFTMarketplace/
 │
 ├── src/
@@ -79,6 +80,7 @@ rugzulaNFTMarketplace/
 │
 ├── package.json           # Project dependencies and scripts
 └── README.md              # Project documentation
+```
 
 ---
 
